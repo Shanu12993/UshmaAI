@@ -1,0 +1,28 @@
+# Ignore system & cache files
+*.log
+*.ini
+*.dat
+*.blf
+*.regtrans-ms
+*.tmp
+*.swp
+
+# Ignore Windows system folders
+AppData/
+OneDrive/
+Desktop/
+Downloads/
+Music/
+Videos/
+Pictures/
+Saved Games/
+Searches/
+Favorites/
+Links/
+
+# Ignore Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
